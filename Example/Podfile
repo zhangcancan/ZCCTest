@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZCCTest_Example' do
+  pod 'ZCCTest', :path => '../'
+
+  target 'ZCCTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
