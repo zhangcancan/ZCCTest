@@ -1,0 +1,6 @@
+framework module ZCCTest {
+  umbrella header "ZCCTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

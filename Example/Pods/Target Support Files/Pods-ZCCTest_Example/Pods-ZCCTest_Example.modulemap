@@ -1,0 +1,6 @@
+framework module Pods_ZCCTest_Example {
+  umbrella header "Pods-ZCCTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
